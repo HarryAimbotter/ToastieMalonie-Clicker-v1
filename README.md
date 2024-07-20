@@ -25,3 +25,6 @@ Stop Hotkey: Define the hotkey to stop clicking.
 
 ## Known Issues
 Hotkey Conflicts: Ensure that the start and stop hotkeys are not the same to avoid conflicts.
+
+## Media
+![alt text](https://github.com/HarryAimbotter/ToastieMalonie-Clicker-v1/blob/main/demo.png?raw=true)
